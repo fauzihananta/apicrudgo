@@ -1,2 +1,2 @@
 #GORMDB
-GORM_DB_PRODUCT = "host=<HOST> user=<USER> password=<PWD> dbname=<DB> port=<PORT> sslmode=disabled TimeZone=Asia/Shanghai"
+GORM_DB_PRODUCT = "host=<HOST> user=<USER> password=<PWD> dbname=<DB> port=<PORT> sslmode=disable TimeZone=Asia/Shanghai"
